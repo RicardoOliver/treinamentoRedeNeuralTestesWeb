@@ -8,7 +8,10 @@ A parte de treinamento de rede neural usa a API do Keras em TensorFlow para cria
 
 Em geral, este código é uma amostra útil para aprender como automatizar ações em um site de compras online e como treinar uma rede neural simples com TensorFlow.
 
-<h3>Detalhe sobre o código implementado</h3?
+<h3>Detalhe sobre a implementação do código</h3>
+  
+  
+  
 Este código é um exemplo de como usar as bibliotecas TensorFlow e Selenium para coletar dados de um site de compras online e usá-los para treinar um modelo de rede neural simples que possa prever se um produto é ou não relevante para uma determinada consulta de pesquisa.
 
 A primeira linha importa a biblioteca TensorFlow, que é uma biblioteca de software livre para aprendizado de máquina e inteligência artificial. As bibliotecas Selenium são importadas a seguir, juntamente com vários módulos específicos do Selenium, que fornecem funcionalidades para interagir com a página da web, como encontrar elementos HTML por seletor CSS e aguardar até que um elemento específico seja carregado. O tempo também é importado para pausar a execução do código por um número especificado de segundos.
